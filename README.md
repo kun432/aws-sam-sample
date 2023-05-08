@@ -1,1 +1,1 @@
-# devcontainer-aws-cdk-sam
+# AWS SAM Sample
